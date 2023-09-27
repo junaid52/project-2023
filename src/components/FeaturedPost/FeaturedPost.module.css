@@ -1,0 +1,41 @@
+.mainContainer {
+    background-color: #F5F5F5;
+    padding: 100px 0;
+}
+
+.mainContainer .featuredPost {
+    background-color: white;
+    display: grid;
+    grid-template-columns: 30% 70%;
+    padding: 40px;
+}
+.container1 img {
+    width: 100%;
+    height: 100%;
+}
+.container2 {
+    padding-left: 30px;
+}
+.postHeader {
+    margin-bottom: 15px;
+}
+.viewsContainer {
+    margin-left: 30px;
+}
+.viewsContainer img {
+    margin-right: 5px;
+}
+.postHeading {
+    margin-bottom: 15px;
+}
+.readMoreContainer {
+    margin-top: 60px;
+}
+.readMoreContainer a {
+    display: flex;
+    align-items: center;
+    color: inherit;
+}
+.readMoreContainer a img {
+    margin-left: 10px;
+}

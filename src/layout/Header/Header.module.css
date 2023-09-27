@@ -1,0 +1,21 @@
+.header {
+    background-color: #fff;
+    height: 90px;
+}
+.rightContainer {
+    column-gap: 40px;
+    list-style: none;
+}
+.rightContainer li {
+    display: flex;
+    align-items: center;
+}
+.rightContainer li a {
+    text-decoration: none;
+    color:#1E1B1B;
+}
+.logoContainer a {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
